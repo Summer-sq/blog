@@ -1,0 +1,2 @@
+# blog
+cdn+jsdelivr
